@@ -165,7 +165,7 @@ body {
 }
 .card-info {
   display: flex;
-  background: url(/img/star.png) no-repeat top 7.5px left / 14px;
+  background: url(./img/star.png) no-repeat top 7.5px left / 14px;
   align-items: center;
   flex-wrap: wrap;
 }
